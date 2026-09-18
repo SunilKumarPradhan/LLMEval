@@ -1,0 +1,14 @@
+// NoteSmith Custom Styles — Monochrome Glass
+// ============================================
+
+$body-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto,
+                   "Helvetica Neue", Arial, sans-serif !default;
+$mono-font-family: "SF Mono", "Fira Code", Monaco, Consolas, monospace !default;
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.6em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+  }
+}
